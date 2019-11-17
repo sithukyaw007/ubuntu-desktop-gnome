@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "newStorageAccountName": {
+      "value": "ubuntugnomesikyaw"
+    },
+    "adminUsername": {
+      "value": "sikyaw"
+    },
+    "dnsNameForPublicIP": {
+      "value": "ubuntusikyaw"
+    },
+    "adminPasswordOrKey": {
+      "value": "40HAbc292662"
+    },
+    "authenticationType": {
+      "value": "password"
+    }
+  }
+}
