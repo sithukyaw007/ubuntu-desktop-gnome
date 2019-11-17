@@ -3,19 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "ubuntugnomesikyaw"
+      "value": "GEN-UNIQUE"
     },
     "adminUsername": {
-      "value": "sikyaw"
+      "value": "GEN-UNIQUE-8"
     },
     "dnsNameForPublicIP": {
-      "value": "ubuntusikyaw"
+      "value": "GEN-UNIQUE"
     },
     "adminPasswordOrKey": {
-      "value": "40HAbc292662"
-    },
-    "authenticationType": {
-      "value": "password"
+      "value": "GEN-SSH-PUB-KEY"
     }
   }
 }
