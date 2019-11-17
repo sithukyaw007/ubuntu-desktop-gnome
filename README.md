@@ -9,7 +9,7 @@
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/ubuntu-desktop-gnome/BestPracticeResult.svg" />&nbsp;
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/ubuntu-desktop-gnome/CredScanResult.svg" />&nbsp;
 
-This is an Azure template to create an Ubuntu Desktop VM.  This is great as a jumpbox behind a NAT.
+This is an Azure template to create an Ubuntu 19.04 Daily Desktop VM.  This is great as a jumpbox behind a NAT.
 
 <a href="https://raw.githubusercontent.com/sithukyaw007/ubuntu-desktop-gnome/master/UbuntuDesktopGnomeARM/azuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
