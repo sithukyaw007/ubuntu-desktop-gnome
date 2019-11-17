@@ -1,4 +1,4 @@
-# Ubuntu Desktop VM in ARM
+# Ubuntu Desktop VM in ARM (19.04)
 
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/ubuntu-desktop-gnome/PublicLastTestDate.svg" />&nbsp;
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/ubuntu-desktop-gnome/PublicDeployment.svg" />&nbsp;
